@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @andremagui ANDRE MArchesini de AGUIar
-- 👀 I’m mainly interested in Python and Go programming, Data Engineering and distributed systems.
-- 🌱 I’m currently learning GoLang programming, distributed systems and web development.
-- 💞️ I’m looking to collaborate on anything that i can gain experience, any entry-intermediary level task in my domain
+- 👋 Hi, I’m @andremagui ANDRE MARCHESINI DE AGUIAR
+- 👀 I’m mainly interested in Software and Data Engineering.
+- 🌱 I’m currently working as a Data Engineer and learning web development on the side.
+- 💞️ I’m looking to collaborate on anything that i can gain experience and meet new people.
 - 📫 How to reach me - through linkedin is the best way @andremagui
 
 <!---
